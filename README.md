@@ -1,0 +1,2 @@
+# CheckModuleDependencyPlugin
+检查组件间依赖关系
