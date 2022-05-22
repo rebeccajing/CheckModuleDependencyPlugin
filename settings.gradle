@@ -1,0 +1,6 @@
+include ':printdependencyplugin'
+include ':app'
+include ':moduleA'
+include ':moduleB'
+System.properties['enableCheckModuleDependency'] = 'true'
+rootProject.name = "CheckModuleDependencyPlugin"
